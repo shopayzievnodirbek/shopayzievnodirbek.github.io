@@ -1,0 +1,46 @@
+body
+{
+background-color: #b3d9ff
+}
+h1
+{
+	font-family: stencil;
+    font-size: 60px; 
+    text-align:center;
+    color: darkblue;
+}
+table
+{
+	text-align:center;
+}
+h3
+{ 
+		font-family: stencil;
+    font-size: 32px; 
+    text-align:center;
+    color: darkblue;
+}
+li 
+{
+font-family: Vivaldi;
+    font-size: 29px; 
+    text-align:left;
+    color: red;
+}
+button
+{
+text-align: center;
+color: red;
+background-color: #c2c2a3;
+padding: 3px 10px;
+font-family: Lucida Calligraphy;
+font-size: 18px; 
+margin-left: 600px; 
+}
+p
+{
+font-family:Lucida Calligraphy; 
+color: red;
+text-align: left;
+font-size: 23px; 
+}
